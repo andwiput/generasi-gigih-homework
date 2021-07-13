@@ -1,0 +1,15 @@
+.playList{
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: cornsilk;
+    padding: 10px;
+}
+.cardContain {
+    margin: 10px;
+    width: 250px;
+    text-align: center;
+}
+.cardContain img{
+    width: 250px;
+}
