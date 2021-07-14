@@ -1,3 +1,6 @@
+.head{
+    margin: 25px;
+}
 .playList{
     margin: 30px;
     border: 1px solid black;
@@ -7,9 +10,9 @@
 }
 .cardContain {
     margin: 10px;
-    width: 250px;
+    width: 150px;
     text-align: center;
 }
 .cardContain img{
-    width: 250px;
+    width: 150px;
 }
