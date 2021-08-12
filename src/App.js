@@ -1,11 +1,11 @@
 import './App.css';
-import SpotifyPage from './page/MySpotify';
+import MySpotify from './page/MySpotify';
 
 function App() {
-
+  
   return (
-    <div className="bg-sptf_dark_main min-h-screen">
-      <SpotifyPage />
+    <div>
+      <MySpotify/>
     </div>
     
   );

@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+.track-cont{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+.track-card{
+    margin: 10px 20px;
+    padding: 10px 15px;
+    width: 250px;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;  
+    flex-grow: 1;
+}
+.track-desc{
+    padding: 5px;
+}
+.track-card img{
+    width: 100%;
+    margin: 15px 0;
+    border-radius: 15px;
+}
+.track-card button{
+    margin: 10px;
+    padding: 3px 10px;
+    border: 1px solid rgb(223, 220, 220);
+    border-radius: 10px;
+    background-color: rgb(61, 114, 61); 
+}
+

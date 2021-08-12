@@ -1,0 +1,7 @@
+.bodypage{
+    padding: 25px;
+    flex: 0.8;
+    background: linear-gradient( rgb(103, 141, 116), rgb(10, 10, 10) );
+    color: white;
+    min-width: 200px;
+}
